@@ -1,7 +1,7 @@
 # Chapter-1
 第一讲 Android 基础
 
-包含了以下内容
+包含了以下内容：
 
 1. ppt - 本地课程的讲义
 2. assignment - 本次课程的壳 demo，可以 clone 下来运行，以 demo 配置的环境为准
